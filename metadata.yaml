@@ -1,0 +1,26 @@
+_repo: The-Passing-of-the-Storm-and-Other-Poems_42422
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42422-h/images/cover.jpg
+creator:
+  author:
+    agent_name: King, Alfred Castner
+    birthdate: 1873
+    deathdate: 1941
+    gutenberg_agent_id: '5231'
+    url: http://www.gutenberg.org/2009/agents/5231
+description: ''
+gutenberg_issued: '2013-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42422'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+title: The Passing of the Storm, and Other Poems
+url: http://www.gutenberg.org/ebooks/42422
