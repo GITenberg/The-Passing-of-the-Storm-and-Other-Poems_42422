@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5231'
     url: http://www.gutenberg.org/2009/agents/5231
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42422#The-Passing-of-the-Storm-and-Other-Poems
 gutenberg_issued: '2013-03-28'
 gutenberg_type: Text
 identifiers:
